@@ -2,6 +2,7 @@
 
 A Jupyter/Colab project for analyzing and predicting California housing prices using real-world data. The app visualizes and predicts house prices based on geolocation and socio-economic features.
 
+🔗 **Detailed Report**: [Report Link](https://www.notion.so/California-Housing-Price-Prediction-Report-244428aa03ca80dabfccd353382f3251)
 🔗 **Live App**: [Streamlit Deployment](https://california-housing-pricing.streamlit.app/)
 
 ---
