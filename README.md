@@ -70,6 +70,9 @@ A Jupyter/Colab project for analyzing and predicting California housing prices u
 * 📥 **User Input**: Custom location and housing features
 * 📊 **Prediction**: Real-time price estimation
 * 📉 **Model Insights**: Displays important features and price drivers
+<p align="center">
+  <img src="images/streamlit_app.png" alt="California Housing Map" width="600">
+</p>
 
 ---
 
