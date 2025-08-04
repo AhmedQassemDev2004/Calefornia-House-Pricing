@@ -1,5 +1,13 @@
 # 🏠 California House Pricing
 
+<p align="center">
+  <img src="images/header.png" alt="California Housing Map" width="600">
+</p>
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
+![ML Project](https://img.shields.io/badge/Project-ML-green.svg)
+
 A Jupyter/Colab project for analyzing and predicting California housing prices using real-world data. The app visualizes and predicts house prices based on geolocation and socio-economic features.
 
 🔗 **Detailed Report**: [Report Link](https://www.notion.so/California-Housing-Price-Prediction-Report-244428aa03ca80dabfccd353382f3251)
